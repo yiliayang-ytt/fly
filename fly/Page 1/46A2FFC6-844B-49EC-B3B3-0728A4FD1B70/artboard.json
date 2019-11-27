@@ -52,6 +52,10 @@
     {
       "class": "rectangle",
       "id": "ABB1959E-0226-4CAC-9DFA-9D411EA860C5"
+    },
+    {
+      "class": "triangle",
+      "id": "7DE91971-455D-457F-96EB-FF0486C91850"
     }
   ],
   "maintainScrollPosition": false,
